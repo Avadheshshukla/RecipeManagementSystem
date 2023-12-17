@@ -16,9 +16,11 @@
 
    <!-- Project Description -->
 ## Overview
-<p align="center">🔸This is simple recipe management system built using Spring Boot framework. The idea was to build  a simple recipe management to perform basic CRUD operations        with some validations and also auhentication.. 
-</p>
-## :one: Frameworks and Languages Used -
+  <p align="center">🔸This is simple recipe management system built using Spring Boot framework. The idea was to build  a simple recipe management to perform basic CRUD operations        with some validations 
+  and also auhentication.. 
+   </p>
+   
+   ## Frameworks and Languages Used -
     1. SpringBoot
     2. JAVA-17
     3. Postman
